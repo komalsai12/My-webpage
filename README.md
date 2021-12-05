@@ -1,5 +1,7 @@
 The Attachment/folder is in .zip extension which needs to be unzipped.
 Then it contains few files and folder for the assigment.
+
+
 Files:
     1. index.html- It contains the html code for the web page.
     2. style.css- It contains the styling code for the web page.
